@@ -1,0 +1,2 @@
+# Indian-Premier-League-Player-Worth
+The Indian Premier League (IPL), officially Vivo Indian Premier League for sponsorship reasons, is a professional Twenty20 cricket league in India contested during April and May of every year by teams representing 18 Indian cities and some states. The IPL is the most-attended cricket league in the world. There have been eleven seasons of the IPL tournament. The aim of this project is to calculate the worth of player based on their past performance and popularity among the crowd.
